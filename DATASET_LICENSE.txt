@@ -1,0 +1,46 @@
+DATASET LICENSE AND ATTRIBUTION
+
+Project: License Plate Detection
+Dataset: License Plate Recognition
+Dataset Version: v12
+
+DATASET SOURCE
+Roboflow Universe:
+https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e
+
+Exact Version:
+https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e/dataset/12
+
+Dataset creator: Provided by a Roboflow Universe contributor. The exported README does not identify the contributor by personal name.
+
+LICENSE
+License reported in the original dataset README: Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+Official license:
+https://creativecommons.org/licenses/by/4.0/
+
+Legal code:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+DATASET DESCRIPTION
+The original exported README reports:
+- 10,125 images
+- Pascal VOC XML object-detection annotations
+- One object class: License_Plate
+- Original splits: train, valid, test
+- Export date stated in README: February 9, 2026
+
+MODIFICATIONS
+The project team will investigate possible duplicate images and data leakage across the original splits.
+
+Any preprocessing, annotation conversion, deduplication, or re-splitting performed by the team will be documented here and in the project report.
+
+ATTRIBUTION
+This project uses the License Plate Recognition v12 dataset obtained from Roboflow Universe. The dataset export identifies the material as licensed under CC BY 4.0.
+
+The source and license are provided above. Changes made to the original material will be identified when redistributed.
+
+This attribution does not imply endorsement by the dataset contributor or Roboflow.
+
+NOTE
+This file documents the dataset's reported license and attribution. It is not a replacement for the official CC BY 4.0 license or a determination of rights in every individual image.
